@@ -8,6 +8,9 @@ body {
   height: 100vh;
   margin: 0;
   background-color: #FFFAF0;
+  background-image: url('../assets/Untitled\ design\ \(22\).png');
+    background-size: contain;
+    background-position: center;
 }
 
 .forms-container {
@@ -33,6 +36,7 @@ body {
   padding: 40px;
   border: 2px solid #000;
   border-radius: 10px;
+  background-color: #F7CB46;
   -webkit-box-shadow: 8px 8px 0px -3px rgba(0,0,0,1);
 -moz-box-shadow: 8px 8px 0px -3px rgba(0,0,0,1);
 box-shadow: 8px 8px 0px -3px rgba(0,0,0,1);

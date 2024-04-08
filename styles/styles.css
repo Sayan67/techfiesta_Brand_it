@@ -84,4 +84,5 @@ box-shadow: 8px 8px 0px -3px rgba(0,0,0,1);
 .btn.solid {
   background-color: #F7CB46;
   color: white;
+  border-radius: 5px;
 }

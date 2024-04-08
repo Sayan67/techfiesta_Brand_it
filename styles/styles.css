@@ -30,6 +30,12 @@ body {
   flex-direction: column;
   align-items: center;
   width: auto;
+  padding: 40px;
+  border: 2px solid #000;
+  border-radius: 10px;
+  -webkit-box-shadow: 8px 8px 0px -3px rgba(0,0,0,1);
+-moz-box-shadow: 8px 8px 0px -3px rgba(0,0,0,1);
+box-shadow: 8px 8px 0px -3px rgba(0,0,0,1);
 }
 
 .title {
@@ -47,9 +53,9 @@ body {
   border: 1px solid #ccc;
   border-radius: 5px;
   border-color: black;
-  -webkit-box-shadow: 10px 11px 0px -3px rgba(0,0,0,1);
--moz-box-shadow: 10px 11px 0px -3px rgba(0,0,0,1);
-box-shadow: 10px 11px 0px -3px rgba(0,0,0,1);
+  -webkit-box-shadow: 8px 8px 0px -3px rgba(0,0,0,1);
+-moz-box-shadow: 8px 8px 0px -3px rgba(0,0,0,1);
+box-shadow: 8px 8px 0px -3px rgba(0,0,0,1);
 }
 
 .btn {
@@ -68,10 +74,10 @@ box-shadow: 10px 11px 0px -3px rgba(0,0,0,1);
 }
 .btn:hover {
   box-shadow: 3px 3px 0px #000000;
-    background-color: #005785;
+    background-color: #F7CB46;
 }
 
 .btn.solid {
-  background-color: #007BFF;
+  background-color: #F7CB46;
   color: white;
 }
